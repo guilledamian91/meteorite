@@ -2,6 +2,9 @@
 
 Este es un juego simple de esquivar meteoritos implementado en Pygame. El jugador controla una nave espacial y debe esquivar los meteoritos mientras dispara para destruirlos. El objetivo es sobrevivir el mayor tiempo posible y ganar puntos destruyendo meteoritos.
 
+
+![Nuestra Nave Espacial]([https://ejemplo.com/imagen_nave_espacial.png](https://github.com/guilledamian91/meteorite/blob/main/meteorite.jpg))
+
 ## Requisitos
 
 - Python 3.x
